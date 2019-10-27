@@ -5,9 +5,10 @@ using namespace std;
 int main()
 {
    int a, b, c;
-
+//inputs the two numbers
    cin >> a >> b;
  
    c = a + b;
+   //Prints the sum of the numbers
    cout <<"Sum of the numbers: " << c << endl;
 }
